@@ -5,16 +5,17 @@
         "urls": [
           "zlive://173.208.209.114:7719/77b7ad91443422cdadb18fd72f0a4507"
         ],
-        "number": "001",
+        "number": "000",
         "logo": "tb1/gt/FTV.png",
         "epg": "民视无线台",
         "name": "民視"
       },
       {
         "urls": [
+          "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
           "zlive://173.208.209.114:7719/97e93f1b428135bfaabbdbb3902818df"
         ],
-        "number": "002",
+        "number": "001",
         "logo": "tb1/gt/台视.png",
         "epg": "台视",
         "name": "台視"
@@ -23,7 +24,7 @@
         "urls": [
           "zlive://173.208.209.114:7719/6c33a5e6d8558cdb439cd0e06297bf2c"
         ],
-        "number": "003",
+        "number": "002",
         "logo": "tb1/gt/中视.png",
         "epg": "中视",
         "name": "中視"
@@ -32,19 +33,29 @@
         "urls": [
           "zlive://173.208.209.114:7719/4346ccaa631e8418dff04298482e9318"
         ],
-        "number": "004",
+        "number": "003",
         "logo": "tb1/gt/CTS.png",
         "epg": "华视",
         "name": "華視"
       },
       {
         "urls": [
+          "https://www.youtube.com/watch?v=4Uc00FPs27M",
           "zlive://173.208.209.114:7719/1dd13c989c8c7e12c3f5ac7ce7479e20"
+        ],
+        "number": "004",
+        "logo": "tb1/gt/PublicTV.png",
+        "epg": "公视",
+        "name": "公視"
+      },
+      {
+        "urls": [
+          "https://www.youtube.com/watch?v=6KlRR_DGhmI"
         ],
         "number": "005",
         "logo": "tb1/gt/PublicTV2.png",
         "epg": "公视2",
-        "name": "公視"
+        "name": "公視2"
       },
       {
         "urls": [
@@ -57,6 +68,7 @@
       },
       {
         "urls": [
+          "https://www.youtube.com/watch?v=MIqUplvSRWA",
           "zlive://173.208.209.114:7719/992f4da9d52c0050455c52bce4db1ce2"
         ],
         "number": "007",
@@ -66,6 +78,7 @@
       },
       {
         "urls": [
+          "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
           "zlive://173.208.209.114:7719/88d18d8a7997cc3e503410c98506b372"
         ],
         "number": "008",
@@ -273,6 +286,7 @@
       },
       {
         "urls": [
+          "https://www.youtube.com/@hztv2799/live",
           "zlive://173.208.209.114:7719/05fa6ad92be6cfc75f92c70d5e403909"
         ],
         "number": "031",
@@ -376,6 +390,7 @@
       },
       {
         "urls": [
+          "https://www.youtube.com/watch?v=ylYJSBUgaMA",
           "zlive://173.208.209.114:7719/ba2496e9af40f22a3f6e72b59a4e4994"
         ],
         "number": "042",
@@ -385,6 +400,7 @@
       },
       {
         "urls": [
+          "https://www.youtube.com/watch?v=xL0ch83RAK8",
           "zlive://173.208.209.114:7719/afc42cc8d9bbb309851d11b3b64129fd"
         ],
         "number": "043",
@@ -394,6 +410,7 @@
       },
       {
         "urls": [
+          "https://www.youtube.com/@twctvnews/live",
           "zlive://173.208.209.114:7719/55d20bb39700a1fa14becb367ad31b37"
         ],
         "number": "044",
@@ -403,6 +420,7 @@
       },
       {
         "urls": [
+          "https://www.youtube.com/@CtsTw/live",
           "zlive://173.208.209.114:7719/a305a74b1294ab1c6a43056cda3c913f"
         ],
         "number": "045",
@@ -440,7 +458,7 @@
       },
       {
         "urls": [
-          "https://raw.githubusercontent.com/killme1206/TVBoxDIY/main/24.m3u8",
+          "https://www.youtube.com/watch?v=_QbRXRnHMVY",
           "zlive://173.208.209.114:7719/6cbf5b995ccd82f89c12e860e5d734bb",
           "zlive://173.208.209.114:7719/9011998207735731140a6271e559d549"
         ],
@@ -451,20 +469,21 @@
       },
       {
         "urls": [
-          "zlive://173.208.209.114:7719/34b0eefb037416d634ebf3747507c188"
+          "https://www.youtube.com/watch?v=WPfPjbOLNfE"
         ],
         "number": "050",
-        "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png",
-        "name": "中天亞洲"
+        "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png",
+        "epg": "中天新闻台2",
+        "name": "中天新聞2"
       },
       {
         "urls": [
-          "http://220.134.196.147:9535/http/60.251.39.91:8081/hls/63/805/ch10.m3u8"
+          "https://www.youtube.com/watch?v=oPx1u9WQrWg",
+          "zlive://173.208.209.114:7719/34b0eefb037416d634ebf3747507c188"
         ],
         "number": "051",
-        "logo": "tb1/gt/EBCNews.png",
-        "epg": "东森新闻台",
-        "name": "東森新聞"
+        "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png",
+        "name": "中天亞洲"
       },
       {
         "urls": [
