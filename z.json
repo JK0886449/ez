@@ -575,7 +575,8 @@
       },
       {
         "urls": [
-          "http://220.134.196.147:9536/http/60.251.39.91:8081/hls/66/808/ch21.m3u8",
+          "http://103.68.63.37:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae",
+          "http://103.68.63.37:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d",
           "zlive://173.208.209.114:7719/77e95a5b0ea2b9a637127341d02cf310"
         ],
         "number": "061",
