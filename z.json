@@ -458,7 +458,7 @@
       },
       {
         "urls": [
-          "https://www.youtube.com/watch?v=_QbRXRnHMVY",
+          "https://www.youtube.com/watch?v=oIgbl7t0S_w",
           "zlive://173.208.209.114:7719/6cbf5b995ccd82f89c12e860e5d734bb",
           "zlive://173.208.209.114:7719/9011998207735731140a6271e559d549"
         ],
@@ -662,7 +662,8 @@
       },
       {
         "urls": [
-          "http://220.134.196.147:9554/http/116.50.42.18:8081/hls/62/804/ch05.m3u8",
+"http://103.68.63.37:8278/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7",
+"http://103.68.63.37:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c",
           "zlive://173.208.209.114:7719/855f73b2f984473734b18de3f9ce4817"
         ],
         "number": "070",
