@@ -1,4 +1,4 @@
-name: Get YouTube Live m3u8
+name: Get YTLive m3u8
 on:
   schedule:
     - cron: '0 0/3 * * *'
@@ -84,7 +84,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/@user-el1yv5or9d/live)
+        $(yt-dlp --print urls https://www.youtube.com/@yoyotvebc/live)
         EOL
     - name: Get 08.m3u8
       run: |
